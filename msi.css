@@ -213,7 +213,6 @@ img {
   box-sizing: content-box;
 }
 .home-bar2 {
-  
   width: 112.5px !important;
   margin-right: 15px;
 }
@@ -395,7 +394,7 @@ p {
   width: 100%;
   height: auto;
   vertical-align: middle;
-  
+
   height: 151.7px;
 }
 .scroll {
@@ -564,7 +563,7 @@ h2 {
 }
 .pgm-img {
   width: 100%;
-  
+
   height: 85.5px;
   vertical-align: middle;
 }
@@ -602,7 +601,6 @@ h2 {
   list-style-type: none;
   padding: 0;
   margin: 0;
- 
 }
 
 .foot-lst {
@@ -705,7 +703,6 @@ h2 {
   align-items: flex-start;
   padding: 0;
   margin: 0;
-  
 }
 .info {
   margin-right: 30px;
@@ -719,7 +716,7 @@ h2 {
   font-size: 17px;
   white-space: nowrap;
   font-weight: 400;
-  
+
   display: list-item;
 }
 .info .global {
@@ -866,7 +863,7 @@ h2 {
   }
   .link-1 .pdt-img {
     width: 100%;
-    
+
     height: auto;
   }
   .scrl-tit {
@@ -884,7 +881,7 @@ h2 {
     margin-bottom: 0px;
     margin-top: 5.5px;
   }
-  
+
   .progress-indicator {
     margin-top: 14px;
   }
@@ -899,7 +896,7 @@ h2 {
     width: 100%;
   }
   .info .global {
-    margin-right: 58px;
+    margin-right: 62px;
   }
   .foot1-flx {
     margin-top: -4px;
@@ -963,7 +960,7 @@ h2 {
     height: 120.24px;
   }
   .foot {
-    max-width: 500px;
+    min-width: 500px;
     width: 100%;
     height: 304px;
     margin: 0;
@@ -972,7 +969,7 @@ h2 {
     width: 100%;
   }
   .info .global {
-    margin-right: 108px;
+    margin-right: 167px;
   }
   .cpytxt br {
     display: none;
@@ -1069,7 +1066,7 @@ h2 {
     max-width: 100%;
   }
   .info .global {
-    margin-right: 423px;
+    margin-right: 662px;
   }
   .cpytxt br {
     display: none;
